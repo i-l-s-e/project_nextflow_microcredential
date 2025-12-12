@@ -4,7 +4,7 @@
 
 | Contributor names | Link to Github repository |
 | ----------------- | ------------------------- |
-|  Ilse Van Dromme  |  https://github.com/i-l-s-e/project_nextflow_microcredential_ilse         |                        |
+|  Ilse Van Dromme  |  https://github.com/i-l-s-e/project_nextflow_microcredential_ilse        |                        |
 
 ## Projects Q2 2025
 
